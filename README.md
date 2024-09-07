@@ -1,5 +1,3 @@
----
-
 # Learning Entities from Narratives of Skin Cancer (LENS)
 
 ## Overview
@@ -88,6 +86,5 @@ A comprehensive tutorial on how to use LENS, including advanced features, is ava
 
 LENS is licensed under the MIT License. Please see the [LICENSE](link-to-license) file for further information.
 
----
 
 This README file provides a formal and detailed overview of the LENS system, including installation instructions, usage examples, and available functionalities. It is designed to be informative and accessible to users who wish to integrate LENS into their projects.
