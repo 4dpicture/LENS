@@ -1,3 +1,4 @@
+![LENS Logo](code/lens_logo_v1.png)  
 # Learning Entities from Narratives of Skin Cancer (LENS)
 
 ## Overview
