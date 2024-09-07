@@ -1,4 +1,4 @@
-![LENS Logo](code/lens_logo_v1.png)  
+<img src="code/lens_logo_v1.png" alt="LENS Logo" width="200"/>  
 # Learning Entities from Narratives of Skin Cancer (LENS)
 
 ## Overview
