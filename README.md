@@ -1,5 +1,8 @@
-<img src="code/lens_logo_v1.png" alt="LENS Logo" width="200"/>  
-# Learning Entities from Narratives of Skin Cancer (LENS)
+<p align="left">
+  <img src="code/lens_logo_v1.png" alt="LENS Logo" width="50"/>
+  <span style="font-size: 2em; font-weight: bold;">Learning Entities from Narratives of Skin Cancer (LENS)</span>
+</p>
+
 
 ## Overview
 
