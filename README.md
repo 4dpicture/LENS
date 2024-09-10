@@ -81,7 +81,7 @@ print(lens2snomedct)
 
 ## Tutorial
 
-A comprehensive tutorial on how to use LENS, including advanced features, is available [here]([link-to-tutorial](https://colab.research.google.com/drive/1y-X4AtWmxp4IsTg4t9jbrY70B7GQfEBh?usp=sharing)).
+A comprehensive tutorial on how to use LENS, including advanced features, is available [here](https://colab.research.google.com/drive/1y-X4AtWmxp4IsTg4t9jbrY70B7GQfEBh?usp=sharing).
 
 ## License
 
