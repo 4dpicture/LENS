@@ -1,14 +1,11 @@
-# Learning Entities from Narratives of Skin Cancer (LENS)
-<img src="lens_logo_v1.png" alt="LENS Logo" width="800" height="270"/>  
+<div style="width: 100%; text-align: center;">
+  <img src="lens_logo_v1.png" alt="LENS Logo"  height="270"/>  
+  <p> </p>
+  <p style="text-align: justify; width: 80%; margin: auto;"><b>Learning Entities from Narratives of Skin Cancer (LENS)</b> is a Python library designed for Named Entity Recognition (NER) specifically tailored to narratives related to skin cancer. LENS is designed to recognize and categorize important entities within skin cancer narratives. It is equipped with 24 distinct tags (see file <a href="https://docs.google.com/document/d/1HO2WHfxTdNh2rTGXeQ9732eu2Xc5kre5_o68yY9NLqg/edit?usp=sharing")>annotation_guidelines.pdf</a>, which allow for the extraction of key information from unstructured text. This information can be linked to biomedical ontologies such as <a href="https://colab.research.google.com/github/CogStack/MedCATtutorials/blob/main/notebooks/specialised/Preprocessing_SNOMED_CT.ipynb#scrollTo=o-TxIJ4N9T4Q">SNOMED-CT</a> and <a href="https://github.com/CogStack/MedCAT?tab=readme-ov-file">MedCAT</a>, facilitating structured data analysis in clinical and research settings.</p>
+  <br>
+ <p style="text-align: justify; width: 80%; margin: auto;">The primary objective of LENS is to process input text—such as online narratives from platforms like Reddit—and return the corresponding <b>LENS tags</b>. These tags allow for the categorization of various entities mentioned in the text, facilitating further analysis and integration with biomedical ontologies.</p>
+</div>
 
-## Overview
-
-**Learning Entities from Narratives of Skin Cancer (LENS)** is a Python library designed for Named Entity Recognition (NER) specifically tailored to narratives related to skin cancer. LENS is designed to recognize and categorize important entities within skin cancer narratives. It is equipped with 24 distinct tags (see file **[annotation_guidelines.pdf](https://docs.google.com/document/d/1HO2WHfxTdNh2rTGXeQ9732eu2Xc5kre5_o68yY9NLqg/edit?usp=sharing)**), which allow for the extraction of key information from unstructured text. This information can be linked to biomedical ontologies such as **[SNOMED-CT](https://colab.research.google.com/github/CogStack/MedCATtutorials/blob/main/notebooks/specialised/Preprocessing_SNOMED_CT.ipynb#scrollTo=o-TxIJ4N9T4Q)** and **[MedCAT](https://github.com/CogStack/MedCAT?tab=readme-ov-file)**, facilitating structured data analysis in clinical and research settings.
-
-
-## Objective
-
-The primary objective of LENS is to process input text—such as online narratives from platforms like Reddit—and return the corresponding **LENS tags**. These tags allow for the categorization of various entities mentioned in the text, facilitating further analysis and integration with biomedical ontologies.
 
 ## Installation
 
