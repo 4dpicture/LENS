@@ -24,7 +24,7 @@ pip install https://huggingface.co/dml2611/LENS/resolve/main/small_sample_ner_le
 Below is an example of how to use LENS to extract entities from a skin cancer narrative:
 
 ```python
-import lens
+import onco_lens_ner as lens
 
 text = "I was diagnosed with melanoma last year. I'm currently undergoing immunotherapy and sometimes feel nauseous."
 entities = lens.get_entities(text)
