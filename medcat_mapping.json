@@ -1,0 +1,97 @@
+{
+"TRT":  {
+        "type_desc": ["Therapeutic or Preventive Procedure"], 
+        "type_id": ["T061"]
+        }, 
+"SYM":  {
+        "type_desc": ["Sign or Symptom"], 
+        "type_id": ["T184"]
+        }, 
+"CANC_T":   {
+            "type_desc": ["Disease or Syndrome"], 
+            "type_id": ["T047"]
+            }, 
+"STG":  {
+        "type_desc": ["Clinical Attribute"], 
+        "type_id": ["T201"]
+        }, 
+"SIZE": {
+        "type_desc": ["Quantitative Concept"], 
+        "type_id": ["T081"]
+        }, 
+"PPL":  {
+        "type_desc": ["Professional or Occupational Group"], 
+        "type_id": ["T097"]
+        }, 
+"MED":  {
+        "type_desc": ["Pharmacologic Substance"], 
+        "type_id": ["T121"]
+        }, 
+"MHD":  {
+        "type_desc": ["Mental or Behavioral Dysfunction"], 
+        "type_id": ["T048"]
+        }, 
+"ORG":  {
+        "type_desc": ["Health Care Related Organization"], 
+        "type_id": ["T093"]
+        }, 
+"ADV_EFF":  {
+        "type_desc": ["Sign or Symptom"], 
+        "type_id": ["T184"]
+        }, 
+"INV":  {
+        "type_desc": ["Diagnostic Procedure", "Finding", "Laboratory or Test Result"], 
+        "type_id": ["T060", "T033", "T059"]
+        }, 
+"POB":  {
+        "type_desc": ["Body Part, Organ, or Organ Component", "Body Location or Region"], 
+        "type_id": ["T023", "T029"]
+        }, 
+"EGY":  {
+        "type_desc": ["Cell or Molecular Dysfunction", "Genetic Function"], 
+        "type_id": ["T049", "T045"]
+        }, 
+"DUR":  {
+        "type_desc": ["Temporal Concept"], 
+        "type_id": ["T079"]
+        }, 
+"AGE":  {
+        "type_desc": ["Temporal Concept"], 
+        "type_id": ["T079"]}, 
+"GENDER":   {
+            "type_desc": ["Organism Attribute"], 
+            "type_id": ["T032"]
+            }, 
+"A/G":  {
+        "type_desc": ["Temporal Concept", "Organism Attribute"], 
+        "type_id": ["T079", "T032"]
+        }, 
+"RES":  {
+        "type_desc": ["Finding"], 
+        "type_id": ["T033"]
+        }, 
+"DIAG": {
+        "type_desc": ["Disease or Syndrome"], 
+        "type_id": ["T047"]
+        }, 
+"GPE":  {
+        "type_desc": ["Geographic Area"], 
+        "type_id": ["T083"]
+        }, 
+"NUM":  {
+        "type_desc": ["Quantitative Concept"], 
+        "type_id": ["T081"]
+        }, 
+"EMO":  {
+        "type_desc": ["Mental Process"], 
+        "type_id": ["T041"]
+        }, 
+"MET":  {
+        "type_desc": [], 
+        "type_id": []
+        }, 
+"EXP":  {
+        "type_desc": [], 
+        "type_id": []
+        }
+}

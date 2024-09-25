@@ -1,0 +1,145 @@
+{
+"TRT": {
+        "CUI": "71388002", 
+        "Type_ID": "28321150", 
+        "Type_Description": "procedure", 
+        "Full_Name": "Procedure"
+        }, 
+"SYM":  {
+        "CUI": "72670004", 
+        "Type_ID": "67667581", 
+        "Type_Description": "finding", 
+        "Full_Name": "Sign"
+        }, 
+"INV":  {
+        "CUI": "386053000", 
+        "Type_ID": "363679005", 
+        "Type_Description": "procedure", 
+        "Full_Name": "Investigations"
+        }, 
+"CANC_T":   {
+        "CUI": "363346000", 
+        "Type_ID": "9090192", 
+        "Type_Description": "disorder", 
+        "Full_Name": "Malignant neoplastic disease (disorder)"
+        }, 
+"STG":  {
+        "CUI": "254292007", 
+        "Type_ID": "30703196", 
+        "Type_Description": "tumor staging\t", 
+        "Full_Name": "Tumor staging"}, 
+"POB":  {
+        "CUI": "38866009", 
+        "Type_ID": "37552161", 
+        "Type_Description": "body structure", 
+        "Full_Name": "Body part"
+        }, 
+"ADV_EFF":  {
+            "CUI": "281647001", 
+            "Type_ID": "9090192", 
+            "Type_Description": "disorder", 
+            "Full_Name": "Adverse reactions"
+            }, 
+"MED":  {
+        "CUI": "410942007", 
+        "Type_ID": "91187746", 
+        "Type_Description": "substance", 
+        "Full_Name": "Drug or medicament"
+        }, 
+"AGE":  {
+        "CUI": "424144002", 
+        "Type_ID": "2680757", 
+        "Type_Description": "observable entity", 
+        "Full_Name": "Age"
+        }, 
+"GENDER":   {
+            "CUI": "365873007", 
+            "Type_ID": "67667581", 
+            "Type_Description": "finding", 
+            "Full_Name": "Gender finding"
+            }, 
+"A/G":  {
+        "CUI": ["424144002", "365873007"], 
+        "Type_ID": ["2680757", "67667581"], 
+        "Type_Description": ["observable entity", "finding"], 
+        "Full_Name": ["Age", "Gender finding"]
+        }, 
+"DIAG": {
+        "CUI": "439401001", 
+        "Type_ID": "2680757", 
+        "Type_Description": "observable entity", 
+        "Full_Name": "Diagnosis"
+        }, 
+"SIZE": {
+        "CUI": "246115007", 
+        "Type_ID": "43039974", 
+        "Type_Description": "attribute", 
+        "Full_Name": "Size"
+        }, 
+"NUM":  {
+        "CUI": "246205007", 
+        "Type_ID": "43039974", 
+        "Type_Description": "attribute", 
+        "Full_Name": "Quantity"
+        }, 
+"MHD":  {
+        "CUI": "74732009", 
+        "Type_ID": "9090192", 
+        "Type_Description": "disorder", 
+        "Full_Name": "Mental disorder"
+        }, 
+"PPL":  {
+        "CUI": "14679004", 
+        "Type_ID": "16939031", 
+        "Type_Description": "occupation", 
+        "Full_Name": "Occupation"
+        }, 
+"EMO":  {
+        "CUI": "285854004", 
+        "Type_ID": "2680757", 
+        "Type_Description": "observable entity", 
+        "Full_Name": "Emotions"
+        }, 
+"DUR":  {
+        "CUI": "282032007", 
+        "Type_ID": "7882689", 
+        "Type_Description": "qualifier value", 
+        "Full_Name": "Periods of life"
+        }, 
+"EGY":  {
+        "CUI": "134198009", 
+        "Type_ID": "43039974", 
+        "Type_Description": "attribute", 
+        "Full_Name": "Etiology"
+        }, 
+"GPE":  {
+        "CUI": "758638001", 
+        "Type_ID": "7882689", 
+        "Type_Description": "qualifier value", 
+        "Full_Name": "Geographical location"
+        }, 
+"ORG":  {
+        "CUI": "568291000005106", 
+        "Type_ID": "75168589", 
+        "Type_Description": "environment", 
+        "Full_Name": "Hospital unit"
+        }, 
+"RES":  {
+        "CUI": "102468005", 
+        "Type_ID": "2680757", 
+        "Type_Description": "observable entity", 
+        "Full_Name": "Therapeutic response"
+        },
+"EXP":  {
+        "CUI": [], 
+        "Type_ID": [], 
+        "Type_Description": [], 
+        "Full_Name": []
+        }, 
+"MET":  {
+        "CUI": [], 
+        "Type_ID": [], 
+        "Type_Description": [], 
+        "Full_Name": []
+        }
+}
