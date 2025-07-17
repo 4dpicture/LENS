@@ -88,8 +88,13 @@ A comprehensive tutorial on how to use LENS, including advanced features, is ava
 
 LENS is licensed under the MIT License. Please see the [LICENSE](LICENSE.txt) file for further information.
 
-📚 Citation / Attribution
+## 📚 Citation / Attribution
 
+## 📚 Citation
+
+If you use this repository or reference the LENS extraction method, please cite:
+
+```bibtex
 @inproceedings{lal-etal-2025-lens,
     title = "{LENS}: Learning Entities from Narratives of Skin Cancer",
     author = "Lal, Daisy Monika  and
