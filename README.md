@@ -19,6 +19,7 @@ To install the latest version of LENS, please run the following command:
 pip install https://huggingface.co/dml2611/LENS/resolve/main/small_sample_ner_lens_c1-0.1.0-py3-none-any.whl
 ```
 
+
 ## Usage Example
 
 Below is an example of how to use LENS to extract entities from a skin cancer narrative:
@@ -30,6 +31,7 @@ text = "I was diagnosed with melanoma last year. I'm currently undergoing immuno
 entities = lens.get_entities(text)
 print(entities)
 ```
+
 
 ## Functionalities
 
@@ -80,15 +82,16 @@ lens2snomedct = lens.lens2snomedct(text)
 print(lens2snomedct)
 ```
 
+
 ## Tutorial
 
 A comprehensive tutorial on how to use LENS, including advanced features, is available [here](https://colab.research.google.com/drive/1y-X4AtWmxp4IsTg4t9jbrY70B7GQfEBh?usp=sharing).
+
 
 ## License
 
 LENS is licensed under the MIT License. Please see the [LICENSE](LICENSE.txt) file for further information.
 
-## 📚 Citation / Attribution
 
 ## 📚 Citation
 
